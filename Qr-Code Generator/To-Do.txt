@@ -1,0 +1,13 @@
+
+version 7, Type Byte, E_Correction H
+Total Char 64
+
+
+1. Display
+    Takes an array and converts it to pixels
+    (Done)
+
+2. Constant Bits
+3. Data bits
+4. Error Correction bits
+5. Masks
